@@ -1,64 +1,72 @@
-> **Tanish Sanghavi** · Data Scientist & Software Engineer
-> B.Tech (ICT-CS) at DAIICT. Bridging the gap between raw statistical data, clinical-grade machine learning, and actionable business intelligence.
+> **Tanish Sanghavi** · Data Science & Software Engineering
+> B.Tech (ICT-CS) student at DAIICT. I turn complex data into clear insights through machine learning pipelines and interactive business dashboards.
+> 
+> 🟢 **Actively seeking Internships (Summer 2025/2026)** | **[📄 View My Resume](https://drive.google.com/file/d/1NRTvwGbpqKET0b9Ogwho0bnMFhGJbaEI/view?usp=sharing )** ```
+
 
 ---
 
-### ⊞ The Engineering Manifesto
+### ⊞ My Approach to Building
 
-I operate on a curiosity-first, project-based methodology. When building data systems, I adhere to three core principles:
+I learn best by building practical, hands-on projects. When working with data, I follow three core principles:
 
-* **I. Domain-Driven Metrics:** Pure accuracy is often a misleading vanity metric. I optimize for real-world consequences—such as manually tuning classification thresholds to maximize Recall in healthcare settings, minimizing fatal false negatives.
-* **II. Data Integrity First:** No model is deployed, and no dashboard is published, without rigorous handling of data leakage, comprehensive EDA, and strict dimensional modeling.
-* **III. Decoupled & Accessible:** Whether it is a machine learning pipeline or a business intelligence report, the end-user experience matters. I build decoupled architectures and interactive, drill-down visualizations that make complex data instantly readable.
+* **I. Focus on Real-World Impact:** Pure accuracy is often a misleading metric. I optimize my models for real-world consequences. For example, in healthcare, missing a sick patient is dangerous. That is why I manually tuned my ML model's threshold to 35% to maximize Recall and minimize false negatives.
+* **II. Clean Data First:** A model or dashboard is only as good as the data behind it. I never build a solution without first doing thorough Exploratory Data Analysis (EDA), handling missing values, and structuring the data properly.
+* **III. Built for the User:** Whether it is a machine learning app or a BI report, the end-user experience matters. I build clean web applications and interactive dashboards so non-technical users can actually understand and act on the data.
 
 ---
 
-### 📋 Curated Portfolio
+### 📋 Featured Projects
 
 | Project & Stack | Architecture & Impact |
 | :--- | :--- |
-| **[Clinical Heart Disease Predictive Tracker](https://github.com/Tanish-30-08-2006/Heart-Disease-Prediction)** <br>↳ *Python · Scikit-Learn · FastAPI · Vercel* | Engineered an end-to-end decoupled ML pipeline. Bypassed default algorithms to implement a custom **35% clinical safety threshold**, achieving a **97% Recall score** to prioritize patient safety. Deployed via a serverless architecture with live feature-importance rendering. |
-| **[Food Express — Enterprise BI Analytics](#)** <br>↳ *Power BI · DAX · Power Query · ETL* | Designed a comprehensive interactive dashboard analyzing **154K+ orders and 20K customers**. Engineered advanced DAX measures to quantify a 48% late-delivery operational risk and segment $5.08M in repeat-customer revenue, directly informing corporate loyalty strategies. |
-| **[Regional Retail Sales Data Model](#)** <br>↳ *SQL · Star Schema · Excel* | Built a robust Star Schema data model (Fact + 4 Dimensions) implementing over 25 time-intelligence and KPI-tracking measures to analyze shifting regional retail dynamics. |
+| **[Clinical Heart Disease Predictive Tracker](https://github.com/Tanish-30-08-2006/Heart-Disease-Prediction)** <br>↳ *Python · Scikit-Learn · FastAPI · Vercel* | Built an end-to-end machine learning pipeline from scratch. Instead of relying on default settings, I used a custom **35% safety threshold** to hit **97% Recall**, prioritizing patient safety. Deployed as a web app using a decoupled frontend and backend architecture. |
+| **[Food Express — Enterprise BI Analytics](#)** <br>↳ *Power BI · DAX · Power Query · ETL* | Designed an interactive Power BI dashboard to analyze over **154K orders and 20K customers**. Created custom DAX calculations to track late-delivery risks and measure repeat-customer revenue ($5.08M), helping guide business strategy. |
+| **[Regional Retail Sales Data Model](#)** <br>↳ *SQL · Star Schema · Excel* | Built a solid Star Schema data model (1 Fact table + 4 Dimension tables). Wrote over 25 time-intelligence calculations to track retail performance, running sums, and sales trends over time. |
 
 *(Click the project titles to view the complete repository, methodologies, and source code).*
 
 ---
 
-### ⚙ The Technical Arsenal
+### ⚙ Technical Skills
 
-**[ Core Languages & Analytics ]**
+**[ Languages ]**
 · Python · SQL · DAX · C · C++ 
 
-**[ Machine Learning & Mathematics ]**
+**[ Machine Learning & Data Science ]**
 · Scikit-Learn · Pandas · NumPy · Predictive Modeling · Statistical Analysis · Hyperparameter Tuning
 
-**[ Business Intelligence & Visualization ]**
-· Power BI · Matplotlib · Seaborn · ETL Pipelines · Star Schema Design · Data Wrangling
+**[ Business Intelligence & Data Viz ]**
+· Power BI · Matplotlib · Seaborn · ETL Pipelines · Star Schema Design · Data Cleaning
 
-**[ Infrastructure & Deployment ]**
-· Git & GitHub · FastAPI · PostgreSQL · Supabase · Vercel · Render · RestAPIs
-
----
-
-### ↳ Orbital Trajectory
-
-Currently pursuing my **B.Tech in ICT-CS at DAIICT, Gandhinagar (CGPA: 8.03)**. My immediate focus is expanding my proficiency in full-stack AI integrations, Agentic workflows, and deploying production-ready machine learning architectures.
+**[ Tools & Deployment ]**
+· Git & GitHub · FastAPI · PostgreSQL · Supabase · Vercel · Render · Jupyter Notebook
 
 ---
 
+### 🏆 Certifications
+
+* **Data Visualization with Power BI** — *Microsoft & Great Learning (April 2024)*
+
+
+### ↳ Education & Current Focus
+
+I am currently pursuing my **B.Tech in ICT-CS at DAIICT, Gandhinagar** (Batch of 2028, CGPA: 8.03). 
+
+While I continue to sharpen my skills in traditional Machine Learning and BI, my immediate focus is expanding into GenAI by learning about **Retrieval-Augmented Generation (RAG)** and **Agentic AI workflows**.
+
 ---
 
-### 📊 Engineering Telemetry
+### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanish-30-08-2006&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=E2E8F0&icon_color=38BDF8&title_color=38BDF8" alt="Tanish's GitHub Stats" />
 </div>
+
 ---
 
-### ✉ The Connect Gateway
+### ✉ Let's Connect
 
 📍 Based in Ahmedabad, Gujarat, India.
 * **Email:** [tanishsanghavi2@gmail.com](mailto:tanishsanghavi2@gmail.com)
-* **Network:** [LinkedIn Profile](#) *(Replace with your actual URL)*
-
-> 🟢 **Actively seeking Internships in Business/Data Analyst or Machine Learning Domain.**
+* **LinkedIn:** [LinkedIn Profile](#) *(Replace with your actual URL)*
