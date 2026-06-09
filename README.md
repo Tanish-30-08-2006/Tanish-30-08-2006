@@ -1,7 +1,7 @@
 > **Tanish Sanghavi** · Data Science & Software Engineering
 > B.Tech (ICT-CS) student at DAIICT. I turn complex data into clear insights through machine learning pipelines and interactive business dashboards.
 > 
-> 🟢 **Actively seeking Internships (Summer 2025/2026)** | **[📄 View My Resume](https://drive.google.com/file/d/1NRTvwGbpqKET0b9Ogwho0bnMFhGJbaEI/view?usp=sharing )** ```
+> 🟢 **Actively seeking Internship** | **[📄 View My Resume](https://drive.google.com/file/d/1NRTvwGbpqKET0b9Ogwho0bnMFhGJbaEI/view?usp=sharing )** ```
 
 
 ---
