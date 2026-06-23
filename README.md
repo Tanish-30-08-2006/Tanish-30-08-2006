@@ -69,4 +69,4 @@ While I continue to sharpen my skills in traditional Machine Learning and BI, my
 
 📍 Based in Ahmedabad, Gujarat, India.
 * **Email:** [tanishsanghavi2@gmail.com](mailto:tanishsanghavi2@gmail.com)
-* **LinkedIn:** [LinkedIn Profile](#) *(linkedin.com/in/tanish-sanghavi-a44b873b6)*
+* **LinkedIn:** [linkedin.com/in/tanish-sanghavi-a44b873b6](#) 
