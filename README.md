@@ -59,7 +59,7 @@ While I continue to sharpen my skills in traditional Machine Learning and BI, my
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanish-30-08-2006&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=E2E8F0&icon_color=38BDF8&title_color=38BDF8" alt="Tanish's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanish-30-08-2006&theme=transparent" alt="Tanish's GitHub Stats" />
 </div>
 
 ---
